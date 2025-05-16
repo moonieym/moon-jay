@@ -1,0 +1,48 @@
+/* Estilos básicos para la página web */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Contenedor principal */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos para el encabezado */
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Estilos para el contenido */
+main {
+    padding: 20px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Diseño responsivo */
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+
+    header, footer {
+        padding: 5px 0;
+    }
+}
