@@ -40,10 +40,6 @@ hwaiting
 
 - **assets**: Carpeta destinada a almacenar recursos como imágenes y fuentes que se utilizan en la página.
 
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request.
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
